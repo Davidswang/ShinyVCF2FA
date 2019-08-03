@@ -1,0 +1,10 @@
+name: shinyvcf2fa
+title:
+username:
+account: ecbio340
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1066597
+bundleId: 2288698
+url: https://ecbio340.shinyapps.io/shinyvcf2fa/
+when: 1564867977.0216
